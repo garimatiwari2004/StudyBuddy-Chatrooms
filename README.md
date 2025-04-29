@@ -14,19 +14,22 @@ git clone https://github.com/garimatiwari2004/StudyBuddy-Chatrooms.git
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd StudyBud
+cd StudyBuddy-Chatrooms
 
 ```
-
+# Let's install virtualenv first
 --> Create a virtual environment :
 ```bash
-# Let's install virtualenv first
+
 pip install virtualenv
-
-# Then we create our virtual environment
-virtualenv envname
-
 ```
+
+--> Then we create our virtual environment
+```bash
+virtualenv envname
+```
+
+
 
 --> Activate the virtual environment :
 ```bash
