@@ -39,6 +39,7 @@ envname\scripts\activate
 
 --> Install the requirements :
 ```bash
+pip freeze > requirements.txt
 pip install -r requirements.txt
 
 ```
