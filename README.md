@@ -60,5 +60,16 @@ python manage.py runserver
 
 ### App Preview :
 
+![image](https://github.com/user-attachments/assets/b617b99a-9644-4317-bbdf-ed11f584187f)
+
+![image](https://github.com/user-attachments/assets/6712351c-eff7-4dad-a3fa-8e92a49e1293)
+
+
+![image](https://github.com/user-attachments/assets/37e3ffba-f53a-44a4-8bc2-21c5c1b50c07)
+
+
+
+
+
 
 
